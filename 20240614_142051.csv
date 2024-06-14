@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MSU4,Chrome 126.0.0.0,,,14-06-2024 14:20:59,14-06-2024 14:21:24,24.636s,PASSED
+,,,,,,,
+Test Cases/MSU1/MSU2,Chrome 126.0.0.0,,,14-06-2024 14:20:59,14-06-2024 14:21:24,24.435s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:21:00,14-06-2024 14:21:02,2.160s,PASSED
+"navigateToUrl(""https://www.msuniv.ac.in/"")",Chrome 126.0.0.0,,,14-06-2024 14:21:02,14-06-2024 14:21:16,13.942s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_Home""))",Chrome 126.0.0.0,,,14-06-2024 14:21:16,14-06-2024 14:21:17,1.462s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_Alumni""))",Chrome 126.0.0.0,,,14-06-2024 14:21:17,14-06-2024 14:21:18,1.195s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_Library""))",Chrome 126.0.0.0,,,14-06-2024 14:21:18,14-06-2024 14:21:20,1.445s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_Extension""))",Chrome 126.0.0.0,,,14-06-2024 14:21:20,14-06-2024 14:21:21,1.432s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_Facilities""))",Chrome 126.0.0.0,,,14-06-2024 14:21:21,14-06-2024 14:21:22,0.992s,PASSED
+"click(findTestObject(""Object Repository/Page_Manonmaniam Sundaranar University/a_MIS""))",Chrome 126.0.0.0,,,14-06-2024 14:21:22,14-06-2024 14:21:24,1.478s,PASSED
